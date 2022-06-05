@@ -1,0 +1,11 @@
+ssh-keygen -> creer la clé ssh ( elle sera dans un dosssier .ssh elle sera dans un fichier id_rsa.pub , puis on cat le fichier puis on copie ce que donne et on cole dans l'intra)
+
+cat -> voir ce que il ya dans le fichier 
+mkdir -> creer un dossier 
+touch -> creer un fichie
+
+permisions : 
+--- 0 
+--x 1
+-w- 2
+r-- 4 
